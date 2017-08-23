@@ -10,7 +10,7 @@
 
 ## Configuration
 
-config.json.example is located in [config](https://github.com/MaarSerieus/test/tree/master/json)
+config.json.example is located in <a href="https://github.com/MaarSerieus/test/tree/master/json" target="_blank">config</a>
 
 Replace config.json.example => config.json
 
@@ -28,4 +28,4 @@ The instructions is above..
 
 ## Not hosting?
 
-[Click here to add Saki to your server](https://discordapp.com/oauth2/authorize?client_id=349433933781270539&scope=bot&permissions=2080898297)
+<a href="https://discordapp.com/oauth2/authorize?client_id=349433933781270539&scope=bot&permissions=2080898297" target="_blank">Click here to add Saki to your server</a>
