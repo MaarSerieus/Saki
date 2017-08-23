@@ -1,0 +1,17 @@
+{
+  "prefix": "!",
+  "token": "insert your token here",
+  "status": "online, idle, or dnd",
+  "game": "!help",
+  
+  "owners":{
+    "insert own'ers user id": "optional if you want to put the owner's name here",
+    "insert co_owner's user id": "optional if you want to put the co_owner's name here"
+    },
+   "mods":{
+    "insert mod user id": "optional if you want to put mod's name here",
+    "insert mod user id": "optional if you want to put mod's name here",
+    "insert mod user id": "optional if you want to put mod's name here",
+    "insert mod user id": "optional if you want to put mod's name here",
+    },
+}
