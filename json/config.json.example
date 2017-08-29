@@ -5,7 +5,7 @@
   "game": "!help",
   
   "owners":{
-    "insert own'ers user id": "optional if you want to put the owner's name here",
+    "insert owner's user id": "optional if you want to put the owner's name here",
     "insert co_owner's user id": "optional if you want to put the co_owner's name here"
     },
    "mods":{
